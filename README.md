@@ -22,8 +22,8 @@ Path from initial state to solution state ::
 
 ( 0 , 0 )<br>
 ( 0 , 4 )<br>
-( 6 , 0 )
-( 6 , 4 )
-( 4 , 0 )
-( 2 , 4 )
-( 2 , 0 )
+( 6 , 0 )<br>
+( 6 , 4 )<br>
+( 4 , 0 )<br>
+( 2 , 4 )<br>
+( 2 , 0 )<br>
