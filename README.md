@@ -11,3 +11,18 @@ The operations you can perform are:
 > Empty a Jug, (X, Y)->(0, Y) Empty Jug 1<br>
 > Fill a Jug, (0, 0)->(X, 0) Fill Jug 1<br>
 > Pour water from one jug to the other until one of the jugs is either empty or full, (X, Y) -> (X-d, Y+d)
+
+## input
+
+6,4,2
+
+## output
+
+Path from initial state to solution state ::
+( 0 , 0 )
+( 0 , 4 )
+( 6 , 0 )
+( 6 , 4 )
+( 4 , 0 )
+( 2 , 4 )
+( 2 , 0 )
