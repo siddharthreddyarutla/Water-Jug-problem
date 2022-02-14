@@ -9,5 +9,5 @@ Determine the path from the initial state (xi, yi) to the final state (xf, yf), 
 
 The operations you can perform are: 
 > Empty a Jug, (X, Y)->(0, Y) Empty Jug 1<br>
-> Fill a Jug, (0, 0)->(X, 0) Fill Jug 1<br.
+> Fill a Jug, (0, 0)->(X, 0) Fill Jug 1<br>
 > Pour water from one jug to the other until one of the jugs is either empty or full, (X, Y) -> (X-d, Y+d)
